@@ -1,6 +1,6 @@
-🌸 Oi, seja bem-vindo(a) ao meu perfil!
+## 🌸 Oi, seja bem-vindo(a) ao meu perfil!
 
-👩‍💻 QA | Automação de Testes | Garantia da Qualidade
+👩‍💻 ***QA | Automação de Testes | Garantia da Qualidade***
 
 🚀 Sou QA e curto garantir que tudo funcione como deveria. Trabalho com Cypress para automação de UI e Postman para testes de API. Sempre buscando formas de deixar os testes mais práticos e eficientes.
 
