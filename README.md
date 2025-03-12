@@ -4,8 +4,7 @@
 
 🚀 Sou QA e curto garantir que tudo funcione como deveria. Trabalho com Cypress para automação de UI e Postman para testes de API. Sempre buscando formas de deixar os testes mais práticos e eficientes.
 
-  
-   💖 Sobre mim:
+💖 Sobre mim:
 🌱 Sempre aprendendo mais sobre QA e tecnologia  
 🍵 Viciada em chás – sério, sempre tem uma xícara do lado!  
 🐾 Amo pets e tenho um cantinho especial pra cuidar deles  
